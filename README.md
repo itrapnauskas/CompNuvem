@@ -3,6 +3,8 @@
 ## Objetivo
 Neste desafio, você aprenderá como criar e interagir com um banco de dados usando a AWS. O objetivo é conectar-se a um banco de dados na nuvem (Amazon RDS) e realizar operações básicas de CRUD (Create, Read, Update, Delete). Você poderá Python para interagir com o banco de dados e aprenderá a configurar e administrar bancos de dados relacionais na AWS.
 
+Nesse projeto você encontrá um construtor de banco e dados, facilitará a populaçao do banco caso você opte em construir localmente e subir na cloud. Atente-se na arquitetura e formato de saída. 
+
 ## Passos para o Desafio
 
 ### 1. **Introdução**
